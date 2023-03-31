@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Flashlight</string>
+    <!--Admob Ads IDs-->
+    <string name="banner">ca-app-pub-2000263817425717/1957491587</string>
+    <string name="inter">ca-app-pub-2000263817425717/3434224781</string>
+
+    <string name="moreapp">market://details?id=CodingStudio</string>
+    <string name="rateapp">http://play.google.com/store/apps/details?id=</string>
+
+</resources>

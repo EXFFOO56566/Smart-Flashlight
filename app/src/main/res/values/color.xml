@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="col_blue">#7518a7</color>
+    <color name="col_hlv_unselected">#cf1cd2</color>
+    <color name="col_hlv_selected">#de69c8</color>
+    <color name="textcolor_white">#FFFFFF</color>
+    <color name="Yellow_Bar">#9000ff</color>
+    <color name="Black">#000000</color>
+    <color name="listbg">#F7F7F7</color>
+    <color name="Brown">#A7A7A7</color>
+    <color name="Brown_switch">#464646</color>
+     <color name="myBlueColor">#8818a7</color>
+
+
+</resources>
